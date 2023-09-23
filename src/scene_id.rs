@@ -1,6 +1,5 @@
 
 pub enum Scene {
-    NONE = 0,
     Ocean = 1,
     Romance = 2,
     Sunset = 3,
